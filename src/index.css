@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-popx: #6c25ff;
+  --color-popx-hover: #5a1ae6;
+  --color-popx-muted: #e8dcff;
+  --color-popx-label: #6b3bff;
+  --color-surface: #f7f8f9;
+  --color-card-tint: #e8f1ff;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-surface);
+  color: #111827;
+}
