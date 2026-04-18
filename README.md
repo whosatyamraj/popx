@@ -13,6 +13,7 @@ POPX is a modern frontend web application built using React and Vite, focused on
 🛠️ Tech Stack
 React.js
 JavaScript
-Tailwind 
+Tailwind CSS
+Framer Motion 
 
 Live Link: https://popx-seven-swart.vercel.app/
